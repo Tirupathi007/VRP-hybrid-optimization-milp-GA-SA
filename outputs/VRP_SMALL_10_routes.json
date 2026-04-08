@@ -1,0 +1,128 @@
+{
+  "CW": [
+    {
+      "vehicle": 1,
+      "route": [
+        0,
+        8,
+        0
+      ],
+      "demand": 28,
+      "capacity": 100,
+      "cost": 14.1421
+    },
+    {
+      "vehicle": 2,
+      "route": [
+        0,
+        9,
+        3,
+        1,
+        2,
+        4,
+        0
+      ],
+      "demand": 97,
+      "capacity": 100,
+      "cost": 96.6107
+    },
+    {
+      "vehicle": 3,
+      "route": [
+        0,
+        10,
+        6,
+        7,
+        5,
+        0
+      ],
+      "demand": 78,
+      "capacity": 100,
+      "cost": 105.5716
+    }
+  ],
+  "SA": [
+    {
+      "vehicle": 1,
+      "route": [
+        0,
+        8,
+        0
+      ],
+      "demand": 28,
+      "capacity": 100,
+      "cost": 14.1421
+    },
+    {
+      "vehicle": 2,
+      "route": [
+        0,
+        4,
+        1,
+        3,
+        9,
+        10,
+        0
+      ],
+      "demand": 94,
+      "capacity": 100,
+      "cost": 97.7994
+    },
+    {
+      "vehicle": 3,
+      "route": [
+        0,
+        7,
+        5,
+        2,
+        6,
+        0
+      ],
+      "demand": 81,
+      "capacity": 100,
+      "cost": 87.3812
+    }
+  ],
+  "GA": [
+    {
+      "vehicle": 1,
+      "route": [
+        0,
+        7,
+        5,
+        2,
+        4,
+        0
+      ],
+      "demand": 92,
+      "capacity": 100,
+      "cost": 79.6445
+    },
+    {
+      "vehicle": 2,
+      "route": [
+        0,
+        10,
+        9,
+        3,
+        1,
+        6,
+        0
+      ],
+      "demand": 83,
+      "capacity": 100,
+      "cost": 90.5955
+    },
+    {
+      "vehicle": 3,
+      "route": [
+        0,
+        8,
+        0
+      ],
+      "demand": 28,
+      "capacity": 100,
+      "cost": 14.1421
+    }
+  ]
+}

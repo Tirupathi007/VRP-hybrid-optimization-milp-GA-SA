@@ -1,0 +1,4 @@
+Algorithm,Cost,Routes,Time_s,Gap_vs_CW_%,Feasible
+CW,216.3245,3,0.0001,0.00,True
+SA,199.3228,3,0.0164,-7.86,True
+GA,184.3822,3,0.1189,-14.77,True
